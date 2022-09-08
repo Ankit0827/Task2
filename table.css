@@ -1,0 +1,14 @@
+#table-color-change,tr,td{
+    border: 1px solid black;
+    width: 30%;
+   height: 30%;
+   
+   
+}  
+.table{
+    /* border: 1px solid black; */
+    margin-left: 40%;
+    margin-top: 15%;
+    height: 50%;
+    align-items: center;
+}
